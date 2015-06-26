@@ -1,4 +1,4 @@
-=== Woocommerce Custom Tab Manager ===
+=== Woocommerce Custom Tab Lite ===
 Contributors: Phoeniixx Team
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, custom tab, ecommerce, custom tab manager
 Requires at least: 4.0

@@ -2,11 +2,11 @@
 
 /**
 
-* Plugin Name: WooCommerce Custom Tab Manager
+* Plugin Name: WooCommerce Custom Tab Lite
 
 * Plugin URI: http://www.phoeniixx.com/
 
-* Description: This is not just a plugin,Tab Manager allows you to add Multiple Tab on every Product page.
+* Description: This is not just a plugin ,Tab Manager allows you to add Multiple Tab on every Product page.
 
 * Version: 1.0
 
