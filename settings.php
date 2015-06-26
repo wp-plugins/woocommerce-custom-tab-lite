@@ -11,11 +11,11 @@
     $value=sanitize_text_field($_REQUEST['enable_tab']);
     if(!empty($value)){
     update_option( 'enable_tab', 'checked' );
-            echo "<div class='updated'><p>Enable Plugin</p></div>";
+            echo "<div class='updated'><p>Your Plugin is Successfully Enabled</p></div>";
     }
     else{
        update_option( 'enable_tab', $value );
-       echo "<div class='error'><p>Disable Plugin</p></div>";
+       echo "<div class='error'><p>Your Plugin is Successfully Disabled</p></div>";
      }
    } 
   
