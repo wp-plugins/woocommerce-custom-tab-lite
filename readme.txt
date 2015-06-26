@@ -12,7 +12,7 @@ With the Custom Tabs plugin, You can give your products a unique touch by provid
 == Description ==
 
 With the custom tabs plugin you can add more tabs to your product to give a better picture of your products on your Ecommerce store.
-It’s a useful plugin that will help you customize your product descriptions so that your customers get to browse and know more about your products and services and the best possible fashion
+It's a useful plugin that will help you customize your product descriptions so that your customers get to browse and know more about your products and services and the best possible fashion
 
 With this plugin you can:
 
@@ -36,7 +36,7 @@ With this plugin you can:
 == Installation ==
 
 1. Install [WordPress](https://wordpress.org/)
-2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New” and then upload the zip file of the plugin using the "Upload Plugin” button you can find on top of the screen.
+2. Go to your WordPress admin panel, and then to Plugins. Click on "Add New" and then upload the zip file of the plugin using the "Upload Plugin" button you can find on top of the screen.
 3. For the plugin to work as it should, WooCommerce plugin has to be installed and enabled.
 
 == Frequently Asked Questions ==
