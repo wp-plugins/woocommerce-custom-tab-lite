@@ -28,8 +28,6 @@ With this plugin you can:
 3. The custom tabs plugin gives you the freedom to create as many tabs as you see fit for your product range.
   
 
-
-
 **Support link** - [Support](http://www.phoeniixx.com/support)
 
 
