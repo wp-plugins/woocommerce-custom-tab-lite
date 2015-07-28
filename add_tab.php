@@ -28,7 +28,7 @@ ob_start();
          
          ?>
         <div class="wrap">
-        <h2 id="add-new-user"> Edit Custom Tag <br /></h2>
+        <h2 id="add-new-user"> Edit Custom Tab <br /></h2>
            <br /><br />
         <form  id="edittab" name="edittab" method="post"  >
               <table>
@@ -60,8 +60,8 @@ ob_start();
     ?>
 
     <div class="wrap">
-        <h2 id="add-new-user"> Add Custom Tag <br /></h2>
-           <p> Create New Custom Tag For All Product's</p>
+        <h2 id="add-new-user"> Add Custom Tab <br /></h2>
+           <p> Create New Custom Tab For All Product's</p>
         <form  id="addtab" name="addtab" method="post"  >
               <table>
             	<tbody>
