@@ -8,7 +8,7 @@
 
 * Description: This is not just a plugin ,Tab Manager allows you to add Multiple Tab on every Product page.
 
-* Version: 1.1.1
+* Version: 1.1
 
 * Author: phoeniixx
 
