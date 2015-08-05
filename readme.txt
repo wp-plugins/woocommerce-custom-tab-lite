@@ -3,7 +3,7 @@ Contributors: Phoeniixx
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, custom tab, ecommerce, custom tab manager , woocommerce custom tab lite , custom tab lite
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,9 @@ With this plugin you can:
 
 
 == Changelog ==
+
+= 1.1.1 - 05/08/2015 =
+* Some bugs fixes.
 
 = 1.1 - 28/07/2015 =
 * Fix - Compatibility issues.
