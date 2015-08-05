@@ -10,7 +10,7 @@
 
 * Version: 1.1
 
-* Author: Phoeniixx Team
+* Author: phoeniixx
 
 * Author URI: http://www.phoeniixx.com/
 
