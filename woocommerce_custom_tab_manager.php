@@ -10,11 +10,13 @@
 
 * Version: 1.1
 
-* Author: Phoeniixx Team
+* Author: Phoeniixx
 
 * Author URI: http://www.phoeniixx.com/
 
 * License: GPL2
+
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 */ 
  
