@@ -69,9 +69,6 @@ With this plugin you can:
 
 == Changelog ==
 
-= 1.1.1 - 05/08/2015 =
-* Some bugs fixes.
-
 = 1.1 - 28/07/2015 =
 * Fix - Compatibility issues.
 
