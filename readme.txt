@@ -26,7 +26,17 @@ With this plugin you can:
 1. For every tab you get to give a title to your tab as well as the space where you can add the description that is line with the title that you have given to that tab.
 2. Any additional tabs that you create with the Custom Tabs plugin will be applicable to all the products on your website.
 3. The custom tabs plugin gives you the freedom to create as many tabs as you see fit for your product range.
+
+
+**Premium features** 
+
+1.	Global Tab Option allows you to have a common tab on all of the product pages, irrespective of their product categories.
+2.	Category Tab Option allows you to show a tab that is common only to same-category products. Tab specifications could only vary from category to category. 
+3.	Product-Specific Tab Option lets you have a tab that is unique to a particular product page. 
+4.	Tab Placement Option lets you sequence your tabs as per your priority.
+
   
+**Please Note: When you upgrade to Pro Version from the Free Version, all tabs would require to be created again.**
 
 **Support**
 
