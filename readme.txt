@@ -35,7 +35,8 @@ With this plugin you can:
 3.	Product-Specific Tab Option lets you have a tab that is unique to a particular product page. 
 4.	Tab Placement Option lets you sequence your tabs as per your priority.
 
-  
+**Premium version link** – [Click here](http://www.phoeniixx.com/product/woocommerce-custom-tabs-plugin/)
+
 **Please Note: When you upgrade to Pro Version from the Free Version, all tabs would require to be created again.**
 
 **Support**
