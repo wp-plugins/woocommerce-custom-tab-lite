@@ -35,7 +35,7 @@ With this plugin you can:
 4.	Tab Placement Option lets you sequence your tabs as per your priority.
 
 
-**Premium version link** – [Click here](http://www.phoeniixx.com/product/woocommerce-custom-tabs-plugin/)
+**Premium version link** – [Click here](http://www.phoeniixx.com/product/woocommerce-custom-tabs-plugin/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
 
 **Please Note: When you upgrade to Pro Version from the Free Version, all tabs would require to be created again.**
 
@@ -47,7 +47,7 @@ With this plugin you can:
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 
 == Installation ==
