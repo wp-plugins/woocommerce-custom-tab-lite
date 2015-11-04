@@ -41,7 +41,7 @@ With this plugin you can:
 
 **Support**
 
-**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
 **Skype** - phoeniixx.tarun
 
