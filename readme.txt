@@ -3,7 +3,7 @@ Contributors: phoeniixx
 Tags: phoeniixx, woocommerce, woocommerce plugins, custom, custom tab, ecommerce, custom tab manager , woocommerce custom tab lite , custom tab lite
 Requires at least: 4.0
 Tested up to: 4.3.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,8 @@ With this plugin you can:
 2.	Category Tab Option allows you to show a tab that is common only to same-category products. Tab specifications could only vary from category to category. 
 3.	Product-Specific Tab Option lets you have a tab that is unique to a particular product page. 
 4.	Tab Placement Option lets you sequence your tabs as per your priority.
+5.  You could  Sort, Re-order, Rename or Enable/Disable the default tabs as per your requirement.
+6.  You can also add shortcode in the custom tabs.
 
 
 **Premium version link** – [Click here](http://www.phoeniixx.com/product/woocommerce-custom-tabs-plugin/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
@@ -76,9 +78,14 @@ With this plugin you can:
 2. By this page you can Enable/Disable your plugin.
 3. This screenshot shows the page to edit existing tab.
 4. This screenshot shows how custom tabs are shown on your site.
+5. You can also add shortcode in the custom tabs.
+6. You could  Sort, Re-order, Rename or Enable/Disable the default tabs as per your requirement.
 
 
 == Changelog ==
+
+= 1.3 - 05/11/2015 =
+* Bug Fixes.
 
 = 1.2 - 14/10/2015 =
 * Fix shortcode functionallity in tabs.
