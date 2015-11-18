@@ -25,7 +25,7 @@
         <h2 id="add-new-user"> Settings For Tab <br /></h2>
 		<h2 class="nav-tab-wrapper woo-nav-tab-wrapper">
 			<a class="nav-tab <?php if($tab == 'general' || $tab == ''){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=pctm-change-settings&amp;tab=general">General</a>
-			<a class="nav-tab <?php if($tab == 'allp'){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=pctm-change-settings&amp;tab=allp">More Plugins</a>
+			
 			<a class="nav-tab <?php if($tab == 'premium'){ echo esc_html( "nav-tab-active" ); } ?>" href="?page=pctm-change-settings&amp;tab=premium">Premium</a>
 		</h2>
 		<?php 
@@ -45,7 +45,7 @@
 									<p>Switch to the premium version </p>
 
 										<p>
-											<a target="_blank" href="#" class="button-primary grn-btn">Get access to Premium Features</a>
+											<a target="_blank" href="http://www.phoeniixx.com/product/woocommerce-custom-tabs-plugin/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org" class="button-primary grn-btn">Get access to Premium Features</a>
 										</p>
 								</div>
 							</div>
@@ -88,22 +88,7 @@
     
 <?php  
 }
-if($tab == 'allp')
-{
-	?>
-		<style>
-		iframe.more-plugin {
-			min-height: 1000px;
-			width: 100%;
-		}
 
-		.wrap{
-			margin:0;
-		}
-		</style>
-			<iframe class="more-plugin" src="http://plugins.snapppy.com/plugins.php"></iframe> 
-	<?php
-}
 if($tab == 'premium')
 {
 	

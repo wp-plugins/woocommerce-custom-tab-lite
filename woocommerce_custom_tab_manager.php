@@ -51,7 +51,7 @@ require_once('settings.php');
          
          
 	}
-	add_filter( 'pztm_woocommerce_custom_product_tabs_lite_content', 'do_shortcode' );
+	add_filter( 'pztm_woocommerce_custom_product_tabs_lite_content', 'do_shortcode' );	add_action('admin_head','admin_assets_file');	function admin_assets_file(){			wp_enqueue_style( 'style-name', plugin_dir_url( __FILE__ )."css/style.css");			}		
 }else{
     add_action('admin_notices', 'pctm_my_plugin_admin_notices');
     function pctm_my_plugin_admin_notices() {
